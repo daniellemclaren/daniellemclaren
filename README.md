@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniellemclaren
 - 👀 I’m interested in node, python, javascript
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me : daniellemclarendev@gmail.com
 
 <!---
