@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @daniellemclaren
-- 👀 I’m interested in learning more about Rest APIs, test-driven development and UI creation
-- 🌱 I’m currently learning Node.js
+- 👋 Hi, I’m @daniellemclare
+- 🌱 I’m currently using Node.js
 - 📫 How to reach me : daniellemclarendev@gmail.com
 
 <!---
